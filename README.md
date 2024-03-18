@@ -8,8 +8,8 @@ _____
 ### My Stats 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kspencerl&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kspencerl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=kspencerl&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&order=1"  height="180em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kspencerl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2"  height="180em" alt="languages graph"  /> 
   </div>
   
 ___
