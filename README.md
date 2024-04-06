@@ -2,6 +2,7 @@
 
 ### Software Engineer
 
+- 💼 Backend Developer at BHS
 - 🎓 Bachelor's student in Software Engineering at [PUC Minas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx).
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
@@ -25,7 +26,7 @@ _____
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,docker,postgres,postman,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,postman,vscode,figma)
 
 ___
 ### Connect with me
