@@ -1,4 +1,4 @@
-# Hello, I'm Kimberly Liz!👋
+# I'm Kimberly Liz!👋
 
 ### Software Engineer
 
