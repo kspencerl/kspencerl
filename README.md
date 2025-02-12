@@ -7,18 +7,10 @@
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Brazil
 
-_____
-
-### My Stats 
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=kspencerl&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&order=1"  height="180em" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kspencerl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2"  height="180em" alt="languages graph"  /> 
-  </div>
 
 _____
 
-### Skills
+### My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,nestjs,react)
 
@@ -28,7 +20,18 @@ _____
 
 ![My Skills](https://skillicons.dev/icons?i=docker,aws,postgres,mysql,githubactions,git)
 
-___
+
+_____
+
+### My Stats 
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kspencerl&show_icons=true&count_private=true&theme=codeSTACKr&hide_border=true&order=1"  height="180em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kspencerl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2"  height="180em" alt="languages graph"  /> 
+  </div>
+  
+_____
+
 ### Connect with me
 <div align="left">
   <a href = "mailto:kimberlylizsl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Gmail" alt="Gmail" ></a>
