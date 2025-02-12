@@ -20,13 +20,13 @@ _____
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,react,nodejs,flutter,js)
+![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,typescript,nestjs,react)
 
 _____
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=git,docker,aws,postgres,postman,figma,gitlab)
+![My Skills](https://skillicons.dev/icons?i=docker,aws,postgres,mysql,githubactions,git)
 
 ___
 ### Connect with me
