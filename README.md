@@ -2,7 +2,7 @@
 
 ### Software Engineer
 
-- 💼 Backend Developer at BHS
+- 💼 Backend Developer at Thoughtworks
 - 🎓 Bachelor's Software Engineering Student at [PUC Minas](https://www.pucminas.br/unidade/praca-da-liberdade/ensino/graduacao/Paginas/Engenharia-de-Software.aspx).
 
 <img src="https://i.imgur.com/iaD74Rp.png" width="20" height="20" > Belo Horizonte, MG - Brazil
