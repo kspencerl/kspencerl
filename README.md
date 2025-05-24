@@ -11,11 +11,11 @@ _____
 
 ### Connect with me
 <div align="left">
-  <a href="mailto:kimberlylizsl@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23212121?style=for-the-badge&logo=gmail&logoColor=%23ff79c6" target="_blank" title="Gmail" alt="Gmail">
+  <a href="mailto:kimberlylizsl@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-%23212121?style=for-the-badge&logo=gmail&logoColor=%23ff79c6" title="Gmail" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/kimberly-lourenco/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%23212121?style=for-the-badge&logo=linkedin&logoColor=%2350fa7b" target="_blank" title="LinkedIn" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/kimberly-lourenco/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23212121?style=for-the-badge&logo=linkedin&logoColor=%2350fa7b" title="LinkedIn" alt="LinkedIn">
   </a>
 </div>
 
